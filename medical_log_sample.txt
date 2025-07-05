@@ -1,0 +1,37 @@
+ST. MARY'S HOSPITAL LACOR - MEDICAL LOG FILE
+===========================================
+Generated: 2025-07-05 13:58:43
+Location: Gulu, Uganda
+
+PATIENT RECORDS:
+================
+
+Patient ID: LCR-2024-001
+Name: John Doe
+Age: 35
+Date: 2024-01-15
+Time: 10:30 AM
+Diagnosis: Malaria
+Treatment: Artemether-Lumefantrine
+Status: Treated and Discharged
+
+Patient ID: LCR-2024-002
+Name: Jane Smith
+Age: 28
+Date: 2024-01-15
+Time: 11:45 AM
+Diagnosis: Hypertension
+Treatment: Amlodipine 5mg
+Status: Ongoing Treatment
+
+Patient ID: LCR-2024-003
+Name: Peter Okello
+Age: 42
+Date: 2024-01-15
+Time: 02:15 PM
+Diagnosis: Diabetes Type 2
+Treatment: Metformin 500mg
+Status: Follow-up Required
+
+END OF MEDICAL LOG
+===================
